@@ -74,4 +74,9 @@ section {
   background-color: whitesmoke;
   padding: 20px;
   border-radius: 10px;
+  transform: skewX(10deg);
+}
+
+section:hover{
+  transform: skewX(10deg);
 }
