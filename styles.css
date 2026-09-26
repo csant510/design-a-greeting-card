@@ -1,26 +1,27 @@
 body {
-    font-family: Arial, sans-serif;
-    padding: 40px;
-    text-align: center;
-    background-color: brown;
+  font-family: Arial, sans-serif;
+  padding: 40px;
+  text-align: center;
+  background-color: brown;
 }
 
 .card {
-    background-color: white;
-    max-width: 400px;
-    padding: 40px;
-    margin: 0 auto;
-    border-radius: 10px;
-    box-shadow: 0 4px 8px gray;
-    transition: transform 0.3s, background-color 0.3s ease
+  background-color: white;
+  max-width: 400px;
+  padding: 40px;
+  margin: 0 auto;
+  border-radius: 10px;
+  box-shadow: 0 4px 8px gray;
+  transition: transform 0.3s, background-color 0.3s ease
 }
+
 .card:hover {
-    background-color: khaki;
-    transform: scale(1.1);
+  background-color: khaki;
+  transform: scale(1.1);
 }
 
 h1::before {
-    content: "🥳 ";
+  content: "🥳 ";
 }
 
 h1::after {
@@ -28,21 +29,26 @@ h1::after {
 }
 
 .message {
-    font-size: 1.2em;
-    margin-bottom: 20px;
+  font-size: 1.2em;
+  margin-bottom: 20px;
 }
+
 .card-links {
   margin-top: 20px;
   display: flex;
   justify-content: space-around;
 }
 
-.card-links a{
-    text-decoration: none;
-    font-size: 1em;
-     padding: 10px 20px;
-     border-radius: 5px;
-     color: white;
-     background-color: midnightblue;
+.card-links a {
+  text-decoration: none;
+  font-size: 1em;
+  padding: 10px 20px;
+  border-radius: 5px;
+  color: white;
+  background-color: midnightblue;
+  
+}
 
+.card-links a:hover {
+  background-color: orangered;
 }
