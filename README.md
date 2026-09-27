@@ -1,2 +1,5 @@
 # design a greeting card
-free code camp design a greeting card practing css
+Free Code Camp: design a greeting card; practice HTML, CSS, responsive design.
+
+
+<img width="931" height="364" alt="image" src="https://github.com/user-attachments/assets/1be37262-9db5-442e-b4f3-e9ade9b03c25" />
