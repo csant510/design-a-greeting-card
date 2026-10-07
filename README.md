@@ -1,7 +1,5 @@
 # design a greeting card
-Free Code Camp: design a greeting card; practice HTML, CSS, responsive design.
-
-[View site](https://csant510.github.io/design-a-greeting-card/)
+Free Code Camp: design a greeting card; practice HTML, CSS, responsive design [View site](https://csant510.github.io/design-a-greeting-card/).
 
 
 
